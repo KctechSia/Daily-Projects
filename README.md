@@ -18,7 +18,7 @@ Let’s turn data into decisions!
 📊 Project Goal:
 Analyze global sales performance across categories, regions, and demographics to uncover actionable insights.
 
-- Tool: Microsoft Excel
+- Tool: Microsoft Excel, Power Query
 - 🧠 Key Insights:
 - December is the peak sales month
 - Perfume category leads in revenue
@@ -28,9 +28,19 @@ Analyze global sales performance across categories, regions, and demographics to
 📊 Project Goal:
 Visualize key sales KPIs including Total Revenue, Top selling products, gender wise revenue and delivery trends.
 
-- Tool: Microsoft Excel
+- Tool: Power Bi, Power Query
 - 🧠 Key Insights:
 - A total revenue of 4 million
 - A 100 customer placed orders, some more than once
 - It takes at most 7 hours for delivery due to certain factors. 
+
+-------3. 
+📊 Project Goal: Offered actionable business intelligence (BI) to track performance, solve operational bottlenecks, and improve decision-making
+- Tool: Power Bi, Power Query
+- 🧠 Key Insights:
+- A total revenue of ₹76 million across all orders
+- 117K Units Sold with 109K successfully shipped and 6,681 unshipped orders
+- 🕒 Sales Trends: Sharp rise in orders from April to May, followed by a decline in June
+
+
 
