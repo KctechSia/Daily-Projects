@@ -34,13 +34,27 @@ Visualize key sales KPIs including Total Revenue, Top selling products, gender w
 - A 100 customer placed orders, some more than once
 - It takes at most 7 hours for delivery due to certain factors. 
 
--------3. 
+-------3. [Amazon Sales Dashboard]
 📊 Project Goal: Offered actionable business intelligence (BI) to track performance, solve operational bottlenecks, and improve decision-making
 - Tool: Power Bi, Power Query
 - 🧠 Key Insights:
 - A total revenue of ₹76 million across all orders
 - 117K Units Sold with 109K successfully shipped and 6,681 unshipped orders
 - 🕒 Sales Trends: Sharp rise in orders from April to May, followed by a decline in June
+
+-------4.  [St Ives Dashboard]
+
+📊 Project Goal: To visualize and analyze patient demographics, billing, and health insurance data at St. Ives Hospital, enabling data-driven decisions in healthcare service delivery.
+
+- Tool: Power Bi, Power Query
+- 🧠 Key Insights:
+- Total billing reached ₦1.18 billion, with females accounting for 70.1% of that amount.
+- Diabetes is the most prevalent condition, especially among females
+- Over 69.9% of patients with private insurance are female.
+- Patient count peaked around 2022 across most conditions and age groups.
+- The hospital has 33.21K doctors and serves 39.98K patients.
+
+This dashboard highlights gender disparities in billing and condition prevalence, aiding strategic planning in resource allocation and patient care.
 
 
 
