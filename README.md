@@ -56,5 +56,20 @@ Visualize key sales KPIs including Total Revenue, Top selling products, gender w
 
 This dashboard highlights gender disparities in billing and condition prevalence, aiding strategic planning in resource allocation and patient care.
 
+------5. [Excel Sales Dashboard]
+
+📊 Project Goal: visual analysis of total revenue based on location, product category, age group, and marketing campaigns
+
+- Tool: Excel, Power Query
+- 🧠 Key Insights:
+- City locations generate the highest revenue, followed by Suburb and Rural areas.
+- Perfume and Body Mist are the top-performing products in terms of total revenue.
+- The 31–50 age group contributes the most to overall sales, indicating a strong middle-aged customer base.
+- Marketing campaigns labeled "High" impact revenue positively, especially across Cologne and Perfume categories.
+- Revenue trends show consistent growth throughout the year, peaking mid-year before a slight drop in December.
+- Makeup and Accessories categories show balanced performance but could benefit from targeted marketing.
+
+
+
 
 
